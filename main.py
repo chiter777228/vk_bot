@@ -1,0 +1,4 @@
+import vk_api
+from vk_api.pool import VKLongPool,VKEventType
+main_token = "815dc761a586484b02e1e19203b816f7fd10757157680b359e0c067c70e2facb464ba35f981f32af4d999"
+
